@@ -39,7 +39,7 @@
         "pads": {
           "drill": 0.0,
           "height": 5.0,
-          "width": 2.681
+          "width": 11.451
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -467,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb_sma_solarcell.kicad_pro",
+    "filename": "pcb_sma_solarcell_full.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -518,7 +518,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber_sma_cut/",
+      "plot": "gerber_sma_full/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

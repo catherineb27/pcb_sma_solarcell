@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 5.0,
-          "width": 2.681
+          "height": 1.5,
+          "width": 3.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -518,7 +518,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber_sma_cut/",
+      "plot": "gerber_test",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
